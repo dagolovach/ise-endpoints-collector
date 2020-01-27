@@ -1,0 +1,38 @@
+{
+  "GROUP_A": [
+    "AA:AA:AA:AA:AA:10",
+    "AA:AA:AA:AA:AA:A1",
+    "AA:AA:AA:AA:AA:A2",
+    "AA:AA:AA:AA:AA:A3",
+    "AA:AA:AA:AA:AA:A4",
+    "AA:AA:AA:AA:AA:A5",
+    "AA:AA:AA:AA:AA:A6",
+    "AA:AA:AA:AA:AA:A7",
+    "AA:AA:AA:AA:AA:A8",
+    "AA:AA:AA:AA:AA:A9"
+  ],
+  "GROUP_B": [
+    "BB:BB:BB:BB:BB:10",
+    "BB:BB:BB:BB:BB:B1",
+    "BB:BB:BB:BB:BB:B2",
+    "BB:BB:BB:BB:BB:B3",
+    "BB:BB:BB:BB:BB:B4",
+    "BB:BB:BB:BB:BB:B5",
+    "BB:BB:BB:BB:BB:B6",
+    "BB:BB:BB:BB:BB:B7",
+    "BB:BB:BB:BB:BB:B8",
+    "BB:BB:BB:BB:BB:B9"
+  ],
+  "GROUP_C": [
+    "CC:CC:CC:CC:CC:10",
+    "CC:CC:CC:CC:CC:C1",
+    "CC:CC:CC:CC:CC:C2",
+    "CC:CC:CC:CC:CC:C3",
+    "CC:CC:CC:CC:CC:C4",
+    "CC:CC:CC:CC:CC:C5",
+    "CC:CC:CC:CC:CC:C6",
+    "CC:CC:CC:CC:CC:C7",
+    "CC:CC:CC:CC:CC:C8",
+    "CC:CC:CC:CC:CC:C9"
+  ]
+}
