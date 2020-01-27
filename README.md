@@ -11,11 +11,6 @@ Files:
 * ise-endpoints-collector.py - main script
 * ise_groups_old.json - file to collect groups and MAC addresses from old ISE
 * ise_groups_new.json - file to collect groups and MAC addresses from old ISE
-    
-## Table of contents
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Contact](#contact)
 
 ## Technologies
 * Python3
