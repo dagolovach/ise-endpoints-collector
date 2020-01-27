@@ -12,6 +12,15 @@ Files:
 * ise_groups_old.json - file to collect groups and MAC addresses from old ISE
 * ise_groups_new.json - file to collect groups and MAC addresses from old ISE
 
+Changes before use:
+* ise_groups = [] list
+* ISE#1_PAN_IP_ADDRESS
+* ISE#1_ERS_ADMIN_USER
+* ISE#1_ERS_ADMIN_PWD
+* ISE#2_PAN_IP_ADDRESS
+* ISE#2_ERS_ADMIN_USER
+* ISE#2_ERS_ADMIN_PWD
+
 ## Technologies
 * Python3
 * Cisco ISE
