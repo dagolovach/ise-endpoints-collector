@@ -1,4 +1,4 @@
-# ISE endpoints collector
+# ISE Endpoints collector
 > Script to collect MAC addresses of endpoints in old and new ISE deployments for the migration purposes and comparison/
 
 Idea:
