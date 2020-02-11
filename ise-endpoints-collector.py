@@ -7,13 +7,16 @@ Idea:
     - Predefined and equal Group in both ISE clusters
     - API to old ISE, check groups, collect endpoints from those groups and keep them in the file - ise_groups_old.json
     - API to new ISE, check groups, collect endpoints from those groups and keep them in the file - ise_groups_new.json
-    - Compare ise_groups_old.json and ise_groups_new.json
+    - Compare ise_gzroups_old.json and ise_groups_new.json
 
 Files:
     ise-endpoints-collector.py - main script
     ise_groups_old.json - file to collect groups and MAC addresses from old ISE
     ise_groups_new.json - file to collect groups and MAC addresses from old ISE
 
+(C) 2019 Dmitry Golovach
+email: dmitry.golovach@outlook.com
+-----------------------------------------------------------
 """
 
 # Imports
