@@ -16,7 +16,6 @@ Files:
 
 (C) 2019 Dmitry Golovach
 email: dmitry.golovach@outlook.com
------------------------------------------------------------
 """
 
 # Imports
